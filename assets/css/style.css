@@ -160,7 +160,7 @@ li {
   text-align: center;
 }
   .gallery-filters {
-  width: 46.65%;
+  width: 60%;
   padding-bottom: 20px;
   margin-top: 90px;
   display: flex;
@@ -168,7 +168,6 @@ li {
 }
 
 .gallery-filters li {
-  padding:18px 25px;
   border-radius: 5px;
   display: inline-block;
   background-color: #000;
@@ -203,7 +202,10 @@ li {
 
 .project-gallery > li:nth-child(-n+15) {   margin-bottom:43px; }
 
-
+.tabs > span {
+  padding:18px 25px;
+  display: inline-block;
+}
 
 
 
