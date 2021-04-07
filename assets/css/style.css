@@ -207,6 +207,23 @@ li {
   display: inline-block;
 }
 
+.bg-black {
+  background-color:#000;
+}
+  
+.bg-green {
+  background-color:#008000;
+}
+  
+.hide-img {
+  display:none;
+}
+  
+.show-img {
+  display:block;
+}
+  
+  
 
 
 
